@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92e32385-fc30-43b2-a6d2-898166dc0911" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aZyomYSPMSZSTB00FgjqHNbkSY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.method.Test" />
+      <module name="JAVA_pratice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Circle (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shuxin.Test_Circle" />
+      <module name="JAVA_pratice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shuxin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hhr.Test_Circle" />
+      <module name="JAVA_pratice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hhr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test_Circle (1)" />
+        <item itemvalue="Application.Test_Circle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92e32385-fc30-43b2-a6d2-898166dc0911" name="Default Changelist" comment="" />
+      <created>1586957587683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586957587683</updated>
+      <workItem from="1586957591446" duration="3843000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="300" key="GridCell.Tab.0.bottom" timestamp="1586963841640">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state width="1877" height="300" key="GridCell.Tab.0.bottom/0.0.1920.1049@0.0.1920.1049" timestamp="1586963841640" />
+    <state width="1877" height="300" key="GridCell.Tab.0.center" timestamp="1586963841639">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state width="1877" height="300" key="GridCell.Tab.0.center/0.0.1920.1049@0.0.1920.1049" timestamp="1586963841639" />
+    <state width="1877" height="300" key="GridCell.Tab.0.left" timestamp="1586963841639">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state width="1877" height="300" key="GridCell.Tab.0.left/0.0.1920.1049@0.0.1920.1049" timestamp="1586963841639" />
+    <state width="1877" height="300" key="GridCell.Tab.0.right" timestamp="1586963841639">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state width="1877" height="300" key="GridCell.Tab.0.right/0.0.1920.1049@0.0.1920.1049" timestamp="1586963841639" />
+    <state x="463" y="169" key="SettingsEditor" timestamp="1586958834849">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="463" y="169" key="SettingsEditor/0.0.1920.1049@0.0.1920.1049" timestamp="1586958834849" />
+    <state x="334" y="140" key="new project wizard" timestamp="1586957601078">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="334" y="140" key="new project wizard/0.0.1920.1049@0.0.1920.1049" timestamp="1586957601078" />
+  </component>
+</project>
