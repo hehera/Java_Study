@@ -13,5 +13,6 @@ public class Test {
         //有参构造声明对象
         Student s2=new Student("李四",90,"234242");
         System.out.println(s1.printinfo());
+        
     }
 }
